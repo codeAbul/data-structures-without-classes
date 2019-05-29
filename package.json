@@ -4,7 +4,7 @@
   "description": "Implementing data structures using OLOO pattern",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/codeAbul/data-structures-without-classes#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.8.0",
+    "babel-preset-env": "^1.7.0",
     "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.13"
   }
 }
