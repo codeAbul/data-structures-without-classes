@@ -1,0 +1,22 @@
+{
+  "name": "data-structures-without-classes",
+  "version": "1.0.0",
+  "description": "Implementing data structures using OLOO pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeAbul/data-structures-without-classes.git"
+  },
+  "author": "codeAbul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeAbul/data-structures-without-classes/issues"
+  },
+  "homepage": "https://github.com/codeAbul/data-structures-without-classes#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
